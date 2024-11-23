@@ -1,0 +1,16 @@
+*.env
+.env.*
+
+node_modules/
+
+cpp/build/
+gateway/dist/
+server/dist/
+
+.vscode/
+
+*.log
+*.o
+*.exe
+
+*.dockerfile
